@@ -1,0 +1,448 @@
+/* ============================================
+   BRUTALIST WARMTH
+   Raw structure. Human soul.
+   ============================================ */
+
+:root {
+  /* Warm earth palette — like sunlight on concrete */
+  --bg:           #f5f0e8;
+  --bg-alt:       #ece5d8;
+  --text:         #2c2416;
+  --text-muted:   #7a6e5d;
+  --accent:       #c4501a;
+  --accent-hover: #a33d10;
+  --border:       #2c2416;
+  --border-light: #c9bfae;
+  --code-bg:      #2c2416;
+  --code-text:    #f5f0e8;
+  --grid:         rgba(44, 36, 22, 0.06);
+  --grid-size:    3rem;
+
+  /* Type scale */
+  --font-mono:  'DM Mono', 'Courier New', monospace;
+  --font-serif: 'Lora', Georgia, serif;
+  --step-0:  clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+  --step-1:  clamp(1.25rem, 1.1rem + 0.75vw, 1.5rem);
+  --step-2:  clamp(1.563rem, 1.25rem + 1.56vw, 2.25rem);
+  --step-3:  clamp(1.953rem, 1.4rem + 2.77vw, 3.375rem);
+
+  /* Spacing */
+  --space-xs:  0.5rem;
+  --space-s:   0.75rem;
+  --space-m:   1.5rem;
+  --space-l:   2.5rem;
+  --space-xl:  4rem;
+  --space-2xl: 6rem;
+
+  /* Layout */
+  --measure: 65ch;
+}
+
+/* ---- Reset ---- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  line-height: 1.7;
+  color: var(--text);
+  background-color: var(--bg);
+  background-image:
+    repeating-linear-gradient(
+      to right,
+      var(--grid) 0,
+      var(--grid) 1px,
+      transparent 1px,
+      transparent var(--grid-size)
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      var(--grid) 0,
+      var(--grid) 1px,
+      transparent 1px,
+      transparent var(--grid-size)
+    );
+  background-size: var(--grid-size) var(--grid-size);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---- Links ---- */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  text-underline-offset: 3px;
+  transition: color 0.15s ease;
+}
+a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+/* ============================================
+   HEADER — raw, exposed, functional
+   ============================================ */
+.site-header {
+  background: var(--code-bg);
+  border-bottom: 3px solid var(--border);
+  padding: var(--space-m) var(--space-l);
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+}
+.site-logo {
+  font-family: var(--font-mono);
+  font-size: var(--step-1);
+  font-weight: 500;
+  color: var(--code-text);
+  text-decoration: none;
+  letter-spacing: -0.03em;
+}
+.site-logo:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+.site-nav {
+  display: flex;
+  gap: var(--space-m);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  text-transform: lowercase;
+}
+.site-nav a {
+  color: rgba(245, 240, 232, 0.6);
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+  transition: all 0.15s ease;
+}
+.site-nav a:hover {
+  color: var(--code-text);
+  border-bottom-color: var(--accent);
+  text-decoration: none;
+}
+
+/* ============================================
+   MAIN
+   ============================================ */
+.site-main {
+  flex: 1;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-l);
+}
+
+/* ============================================
+   HOME PAGE
+   ============================================ */
+.home-intro {
+  margin-bottom: var(--space-2xl);
+  padding-bottom: var(--space-xl);
+  border-bottom: 1px solid var(--border-light);
+}
+.home-greeting {
+  font-family: var(--font-mono);
+  font-size: var(--step-0);
+  color: var(--accent);
+  margin-bottom: var(--space-xs);
+  font-weight: 400;
+}
+.home-headline {
+  font-family: var(--font-mono);
+  font-size: var(--step-3);
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.04em;
+  margin-bottom: var(--space-m);
+  max-width: 18ch;
+}
+.home-bio {
+  font-size: var(--step-0);
+  color: var(--text-muted);
+  max-width: 50ch;
+  line-height: 1.8;
+}
+.home-bio a {
+  border-bottom: 1px solid var(--accent);
+}
+
+/* ---- Post list ---- */
+.section-label {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: var(--space-l);
+}
+.post-list {
+  list-style: none;
+}
+.post-list-item {
+  padding: var(--space-m) 0;
+  border-bottom: 1px solid var(--border-light);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: var(--space-m);
+}
+.post-list-item:first-child {
+  border-top: 1px solid var(--border-light);
+}
+.post-list-title {
+  font-family: var(--font-mono);
+  font-size: var(--step-0);
+  font-weight: 500;
+}
+.post-list-title a {
+  color: var(--text);
+}
+.post-list-title a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+.post-list-excerpt {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: var(--space-xs);
+  max-width: 55ch;
+}
+.post-list-date {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+/* ============================================
+   BLOG INDEX
+   ============================================ */
+.blog-index-title {
+  font-family: var(--font-mono);
+  font-size: var(--step-2);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  margin-bottom: var(--space-xl);
+}
+
+/* ============================================
+   SINGLE POST
+   ============================================ */
+.post-header {
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-l);
+  border-bottom: 1px solid var(--border-light);
+}
+.post-meta {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  margin-bottom: var(--space-m);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  align-items: center;
+}
+.meta-sep { opacity: 0.4; }
+.post-tag {
+  background: var(--bg-alt);
+  padding: 0.1em 0.5em;
+  border: 1px solid var(--border-light);
+  font-size: 0.75rem;
+}
+.post-title {
+  font-family: var(--font-mono);
+  font-size: var(--step-2);
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  max-width: 20ch;
+}
+.post-subtitle {
+  font-size: var(--step-0);
+  color: var(--text-muted);
+  margin-top: var(--space-s);
+  max-width: 50ch;
+}
+
+/* ---- Prose content ---- */
+.prose {
+  max-width: var(--measure);
+}
+.prose > * + * {
+  margin-top: var(--space-m);
+}
+.prose h2 {
+  font-family: var(--font-mono);
+  font-size: var(--step-1);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-top: var(--space-xl);
+  padding-top: var(--space-m);
+  border-top: 1px solid var(--border-light);
+}
+.prose h3 {
+  font-family: var(--font-mono);
+  font-size: var(--step-0);
+  font-weight: 500;
+  margin-top: var(--space-l);
+}
+.prose p {
+  line-height: 1.8;
+}
+.prose strong {
+  font-weight: 600;
+}
+.prose blockquote {
+  border-left: 4px solid var(--accent);
+  padding: var(--space-s) var(--space-m);
+  margin-left: 0;
+  background: var(--bg-alt);
+  font-style: italic;
+}
+.prose ul, .prose ol {
+  padding-left: var(--space-m);
+}
+.prose li + li {
+  margin-top: var(--space-xs);
+}
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid var(--border);
+}
+.prose hr {
+  border: none;
+  border-top: 1px solid var(--border-light);
+  margin: var(--space-xl) 0;
+}
+
+/* ---- Inline code ---- */
+.prose code {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+  background: var(--bg-alt);
+  padding: 0.15em 0.35em;
+  border: 1px solid var(--border-light);
+}
+
+/* ---- Code blocks ---- */
+.prose pre {
+  background: var(--code-bg);
+  color: var(--code-text);
+  padding: var(--space-m);
+  overflow-x: auto;
+  border: 2px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+.prose pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  font-size: inherit;
+}
+
+/* ---- Post footer ---- */
+.post-footer {
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-l);
+  border-top: 3px solid var(--border);
+}
+.back-link {
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+}
+
+/* ============================================
+   PAGES (About, Contact)
+   ============================================ */
+.page-header {
+  margin-bottom: var(--space-xl);
+}
+.page-title {
+  font-family: var(--font-mono);
+  font-size: var(--step-2);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+.page-body {
+  max-width: var(--measure);
+}
+
+/* ---- Contact specifics ---- */
+.contact-links {
+  list-style: none;
+  margin-top: var(--space-l);
+  padding: 0;
+}
+.contact-links li {
+  font-family: var(--font-mono);
+  font-size: var(--step-0);
+  padding: var(--space-s) 0;
+  border-bottom: 1px solid var(--border-light);
+  display: flex;
+  gap: var(--space-m);
+}
+.contact-links li:first-child {
+  border-top: 1px solid var(--border-light);
+}
+.contact-label {
+  color: var(--text-muted);
+  min-width: 6ch;
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.site-footer {
+  border-top: 3px solid var(--border);
+  padding: var(--space-m) var(--space-l);
+  margin-top: auto;
+}
+.footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 640px) {
+  .site-header { padding: var(--space-m); }
+  .header-inner { flex-direction: column; gap: var(--space-s); }
+  .site-main { padding: var(--space-l) var(--space-m); }
+  .site-footer { padding: var(--space-m); }
+  .footer-inner { flex-direction: column; }
+
+  .post-list-item {
+    grid-template-columns: 1fr;
+    gap: var(--space-xs);
+  }
+  .post-list-date { order: -1; }
+
+  .home-headline { font-size: var(--step-2); }
+}

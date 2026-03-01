@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+title: Writing
+permalink: /blog/
+---
+
+<h1 class="blog-index-title">All writing</h1>
+
+<ul class="post-list">
+  {%- for post in collections.posts | reverse %}
+  <li class="post-list-item">
+    <div>
+      <p class="post-list-title"><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+      {% if post.data.excerpt %}
+        <p class="post-list-excerpt">{{ post.data.excerpt }}</p>
+      {% endif %}
+    </div>
+    <time class="post-list-date" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+  </li>
+  {%- endfor %}
+</ul>
