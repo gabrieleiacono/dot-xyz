@@ -9,6 +9,7 @@ export default function (eleventyConfig) {
   // Passthrough copy
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/public");
+  eleventyConfig.addPassthroughCopy("src/posts/**/*.{png,jpg,jpeg,gif,svg,webp}");
 
   // Date filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
