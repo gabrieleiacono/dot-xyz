@@ -8,7 +8,9 @@ permalink: /about/
   <h1 class="page-title">About me</h1>
 </header>
 
-<div class="page-body prose">
+Coming soon
+
+<!-- <div class="page-body prose">
   <p>
     Hello — I'm <strong>Your Name</strong>. I'm a developer, writer, and occasional
     over-thinker based in [your city].
@@ -36,4 +38,4 @@ permalink: /about/
     else uses <a href="https://fonts.google.com/specimen/DM+Mono">DM Mono</a>.
     No JavaScript frameworks were harmed in the making of this blog.
   </p>
-</div>
+</div> -->

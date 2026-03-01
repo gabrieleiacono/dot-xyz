@@ -17,15 +17,15 @@ permalink: /contact/
   <ul class="contact-links">
     <li>
       <span class="contact-label">email</span>
-      <a href="mailto:you@example.com">you@example.com</a>
+      <a href="mailto:gabrieleiacono000@gmail.com">gabrieleiacono000@gmail.com</a>
     </li>
     <li>
       <span class="contact-label">github</span>
-      <a href="https://github.com/yourusername" target="_blank" rel="noopener">@yourusername</a>
+      <a href="https://github.com/gabrieleiacono" target="_blank" rel="noopener">@gabrieleiacono</a>
     </li>
     <li>
-      <span class="contact-label">social</span>
-      <a href="https://mastodon.social/@yourusername" target="_blank" rel="noopener">@yourusername</a>
+      <span class="contact-label">linkedin</span>
+      <a href="https://www.linkedin.com/in/gabriele-iacono-39562a111" target="_blank" rel="noopener">gabriele-iacono</a>
     </li>
   </ul>
 </div>

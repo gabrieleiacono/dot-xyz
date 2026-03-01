@@ -396,7 +396,7 @@ a:hover {
 }
 .contact-label {
   color: var(--text-muted);
-  min-width: 6ch;
+  min-width: 9ch;
   font-size: 0.8125rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
