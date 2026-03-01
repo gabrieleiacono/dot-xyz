@@ -30,6 +30,9 @@ export default function (eleventyConfig) {
     return `${minutes} min read`;
   });
 
+  // Current year shortcode
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   // Collection: posts sorted by date
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi.getFilteredByGlob("src/posts/**/*.md").sort((a, b) => {

@@ -1,9 +1,9 @@
 {
-  "title": "Your Name",
-  "description": "A personal blog about code, ideas, and everything in between.",
-  "url": "https://yoursite.com",
+  "title": "Gab's blog",
+  "description": "Gabriele Iacono's blog",
+  "url": "https://gabrieleiacono.xyz",
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com"
+    "name": "Gabriele Iacono",
+    "email": "gabrieleiacono000@gmail.com"
   }
 }
