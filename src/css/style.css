@@ -15,7 +15,7 @@
   --border-light: #c9bdaa;
   --code-bg:      #2c2416;
   --code-text:    #f5f0e8;
-  --grid:         rgba(44, 36, 22, 0.07);
+  --grid:         rgba(44, 36, 22, 0.05);
   --grid-size:    4rem;
 
   /* Type scale */
@@ -52,8 +52,8 @@ body {
     repeating-linear-gradient(
       to right,
       var(--grid) 0,
-      var(--grid) 1px,
-      transparent 1px,
+      var(--grid) 2px,
+      transparent 2px,
       transparent var(--grid-size)
     ),
     repeating-linear-gradient(

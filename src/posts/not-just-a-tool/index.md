@@ -15,15 +15,17 @@ La narrazione del "è solo uno strumento" ci piace perché è qualcosa che ci as
 
 Naturalmente, le cose non stanno così. Il nostro prompt, per quanto preciso, non identificherà MAI univocamente l'output del modello.
 
-*Qualcosa* è stato aggiunto da un'entità (dalle caratteristiche ancora ignote) che è stata stimolata dalla nostra richiesta, qualcosa che magari è anche creativo / efficace / funzionante, ma che di certo non è il solo modo in cui quel pensiero sarebbe potuto continuare.
+*Qualcosa* è stato aggiunto da un'entità con preferenze e attitudini cangianti che è stata stimolata dalla nostra richiesta, qualcosa che magari è anche efficace, ma che di certo non è il solo modo in cui quel pensiero sarebbe potuto continuare.
 
 Ciò si applica a qualsiasi tipo di interazione con i modelli. Quando chiediamo consiglio a Gemini su un task di sintesi dobbiamo ricordarci che si tratta della **sua** personalissima interpretazione di ciò che è importante mantenere e cosa invece è trascurabile. Quando Claude ci dice che la professione più adatta per noi è il programmatore, potrebbe anche trattarsi di un ottimo consiglio! Ma senza dimenticare che a Claude *piace un sacco programmare*, forse anche più di quanto possa piacere a noi.
 
-Questo non vuol dire che i modelli siano scadenti, o meno incredibili: così come valutiamo il consiglio di un amico in base ai nostri valori, gli output dei modelli vanno trattati con la stessa distanza e rispetto per ciò che è [_non-self_](https://it.wikipedia.org/wiki/An%C4%81tman).
+Questo non vuol dire che i modelli siano scadenti, o meno incredibili: così come valutiamo il consiglio di un amico in base ai nostri valori, dobbiamo mantenere la capacità di distinguere il [_self dal non-self_](https://it.wikipedia.org/wiki/Sistema_immunitario) quando usiamo gli LLM.
 
 Io stesso amo la cazzimma di Kimi K2, programmo quotidianamente con Claude e mi viene naturale ammettere quando mi aiutano a generare il codice per un esperimento. Allo stesso modo, non penso meno di chi fa lo stesso: mi piace meravigliarmi dell'abilità che hanno alcune persone nel far generare ai modelli degli output di un'originalità rara.
 
-Il problema è quando ci rifiutiamo di ammetterlo, in primis a noi stessi. È così che il modello sussume la nostra autodeterminazione e smettiamo di sfidare il risultato dei modelli.
-In men che non si dica, la nostra voce è uguale a quella di milioni di altri.
-Siamo diventati lo strumento del modello.
+Il problema è quando ci rifiutiamo di ammetterlo, in primis a noi stessi. È così che il modello sussume la nostra autodeterminazione e smettiamo di mettere in discussione il risultato dei modelli.
+In men che non si dica, la nostra voce diventa uguale a quella di milioni di altri.
+
+In men che non si dica, diventiamo lo strumento del modello.
+
 
