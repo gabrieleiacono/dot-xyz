@@ -20,7 +20,7 @@ Coordinate parcheggio:
 
 Eravamo diretti al lago d'Arno, quando a Berzo Demo (nome incredibile per un paese) incontriamo un posto di blocco che ci informa che la strada è chiusa per [un rally](https://www.rallycoppacamuna.it/). Dopo un rapido brainstorming decidiamo di andare al Prudenzini, uno di quei posti che ho sentito nominare spesso ai miei amici della Valle.
 
-Abbiamo parcheggiato in uno degli spiazzi che precedono il rifugio Stella Alpina. Essendo domenica il parcheggio era pieno, così come molte delle piazzole sotto: abbiamo lasciato l'auto 750m più in basso. Poco male, la vista è già una meraviglia;
+Essendo domenica, il parcheggio era pieno, così come molte delle piazzole sotto. Abbiamo lasciato l'auto 750 m più in basso. Poco male: la vista è già una meraviglia.
 
 ![Strada](strada.webp)
 
@@ -65,17 +65,16 @@ Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si est
 ![Il rifugio più da vicino](prudenzini1.webp)
 ![Il rifugio Prudenzini](prudenzini2.webp)
 
-Arrivati al rifugio abbiamo steso la coperta da picnic e mangiato i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più severamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
+Arrivati al rifugio abbiamo steso la coperta da picnic e mangiato i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più seriamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
 
-Lasciato il Prudenzini abbiamo ripercorso al contrario la strada da dove siamo partiti con un bel passo. Mi trovavo poco dopo il lago asciutto di poco fa e stavo facendo attenzione a non slogarmi una caviglia sul sentiero pietroso, quando alzo lo sguardo e vedo un ungulato che mi fissa, a una trentina di metri da me:
+Lasciato il Prudenzini abbiamo ripercorso al contrario la strada da dove siamo partiti con un bel passo. Mi trovavo poco dopo il lago asciutto di poco fa e stavo facendo attenzione a non slogarmi una caviglia sul sentiero pietroso, quando alzo lo sguardo e vedo quest'ungulato che mi fissa, a una trentina di metri da me:
 
 ![Il camoscio che mi fissa a una trentina di metri](camoscio1.webp)
 
-Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse lo infastidiva appena, ma era evidente che sarebbe bastato un altro passo per allarmarlo. Mi sono limitato a contemplarlo con meraviglia. È venuto giù dal pendio e se ne andò, placido e al passo, giù per la mulattiera. 
+Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse lo infastidiva appena, ma era evidente che sarebbe bastato un altro passo per allarmarlo. Mi sono limitato a contemplarlo con meraviglia. È venuto giù dal pendio e se ne andò, placido e al passo, giù per la mulattiera. Quasi ci rimango male, poi penso che sarebbe stato inverosimile se mi fosse venuto incontro a salutarmi come un fratello che non vedeva da anni.
 
 ![Il camoscio se ne va giù per la mulattiera](camoscio2.webp)
 
 Tornati allo Stella Alpina sapevamo di essere quasi arrivati, ma avevamo sottovalutato gli ultimi 750m che ancora ci separavano dalla macchina. Da una KIA si affaccia un uomo che si propone di darci un passaggio, ma rifiutiamo, illusi di essere praticamente arrivati. Mi rendo conto che 750m in discesa sull'asfalto sono una distanza comica, ma chi scrive è più abituato a passeggiare a 0.1m s.l.m. sulle spiagge della Sicilia orientale — o al massimo a trottare nei corridoi della metropolitana — e devo ammettere che avevo una certa fretta di arrivare all'auto, scaricare lo zaino e sprofondare nel sedile anatomico. Che mi sia da lezione.
-
 
 
