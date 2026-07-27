@@ -14,7 +14,7 @@ title: Home
 <section>
   <p class="section-label">Recent writing</p>
   <ul class="post-list">
-    {%- for post in collections.posts | reverse %}
+    {%- for post in collections.posts %}
     {% if loop.index <= 10 %}
     <li class="post-list-item">
       <div>

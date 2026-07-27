@@ -1,7 +1,7 @@
 ---
 title: "Hiking chronicles - Rifugio Prudenzini (m 2235)"
 date: 2026-07-19
-excerpt: "La mia prima gita nel Parco dell'Adamello, tra acqua, cavalli e un camoscio."
+excerpt: "Incl. incontro inaspettato con camoscio"
 tags:
   - hiking
 ---
@@ -17,28 +17,27 @@ Coordinate parcheggio:
 
 
 
-Nelle nostre intenzioni volevamo , quando incontriamo un posto di blocco che ci informa che la strada è chiusa per [un rally](https://www.rallycoppacamuna.it/).
 
-A quel punto facciamo un rapido brainstorming* e decidiamo di andare al Prudenzini, la mia prima gita nel Parco dell'Adamello! Erano anni che ne sentivo parlare.
+Eravamo diretti al lago d'Arno, quando a Berzo Demo (nome incredibile per un paese) incontriamo un posto di blocco che ci informa che la strada è chiusa per [un rally](https://www.rallycoppacamuna.it/). Dopo un rapido brainstorming decidiamo di andare al Prudenzini, uno di quei posti che ho sentito nominare spesso ai miei amici della Valle.
 
-Abbiamo parcheggiato poco più giù del rifugio Stella Alpina, in uno degli spiazzi che lo precedono. Essendo domenica il parcheggio era pieno, così come molte delle piazzole sotto: abbiamo lasciato l'auto 750m più in basso. Poco male, la vista è già piacevole.
+Abbiamo parcheggiato in uno degli spiazzi che precedono il rifugio Stella Alpina. Essendo domenica il parcheggio era pieno, così come molte delle piazzole sotto: abbiamo lasciato l'auto 750m più in basso. Poco male, la vista è già una meraviglia;
 
-<!-- TODO: immagine mancante — foto della strada -->
+![Strada](strada.webp)
 
-Il primo pezzo è una mulattiera ripida con diversi tornanti, e già si capisce che si sarà circondati dall'acqua per tutto il tempo: lo scroscìo è quasi assordante in questo punto, specie quando si passa sopra i diversi ponticelli che tagliano il / i torrente/i.
+Il primo pezzo è una mulattiera ripida con diversi tornanti, e già si capisce che si sarà circondati dall'acqua per tutto il tempo: lo scroscìo è assordante, specie quando si passa sopra i diversi ponticelli che scavalcano il torrente.
 
 ![Uno dei ponticelli sul torrente](ponticello.webp) ![Un altro ponticello](ponticello2.webp)
 
-La strada costeggia un bosco (senza mai tagliarlo del tutto) che dà un po' di riparo dal sole in quella che sarebbe altrimenti una passeggiata quasi totalmente esposta. È qui che sentiamo avvicinarsi alle nostre spalle dei cavalli con la loro soundtrack inconfondibile. Li lasciamo passare, e da qui in avanti saremo perseguitati dalla merda. Alla loro si aggiunge quella del bestiame delle malghe - alcune "torte" raggiungevano dimensioni considerevolissime:
+La strada costeggia un bosco (senza mai tagliarlo del tutto) che dà un po' di riparo dal sole in quella che sarebbe altrimenti una passeggiata quasi totalmente esposta. È qui che sentiamo avvicinarsi alle nostre spalle dei cavalli con la loro soundtrack inconfondibile. Li lasciamo passare, e da qui in avanti saremo perseguitati dalla merda. Alla loro si aggiunge quella del bestiame delle malghe — alcune "torte" raggiungevano dimensioni considerevolissime:
 
 ![I cavalli che ci superano sulla mulattiera](cavalli.webp)
-<!-- TODO: immagine mancante — torta.webp -->
+![Torta](torta.webp)
 
 
 
-Ciononostante la passeggiata continua ad essere molto piacevole, specialmente per via del gradiente che si fa a poco a poco meno severo. Era da un po' che avevo staccato Paola per cui decido di fermarmi a godermi la vista e salutare gli altri escursionisti che passavano di lì, tra cui un gruppetto con due piccoli cani in una supplica costante per dei biscottini.
+Ciononostante la passeggiata continua ad essere molto piacevole, specialmente per via del gradiente che si fa a poco a poco meno severo. Era da un po' che avevo staccato Paola per cui decido di fermarmi a godere della vista e salutare gli altri escursionisti che passavano di lì, tra cui un gruppetto con due piccoli cani in una supplica costante per dei biscottini.
 
-<!-- TODO: immagine mancante — vista1.webp -->
+![La vista prima della centrale](vista1.webp)
 ![I due cagnolini in supplica per dei biscottini](canetti.webp)
 
 Paola arriva e mi offre della cioccolata. Avanzati per un bel pezzo passando vicino ad un grande lago asciutto ci imbattemmo nella centrale elettrica di Salarno, che mi piacque da morire vista da lontano: aveva l'aria di essere il laboratorio segreto di un geniale scienziato eremita.
@@ -49,15 +48,15 @@ Paola arriva e mi offre della cioccolata. Avanzati per un bel pezzo passando vic
 
 Ed ecco finalmente il lago di Salarno, anche se era un lago per un pelo: l'acqua era piuttosto bassa, ma questo ci ha permesso di ammirare i segni concentrici dell'acqua sulle rocce che la contengono.
 
-<!-- TODO: immagine mancante — salarno1.webp -->
+![Lago di Salarno](salarno1.webp)
 
-Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si estendeva in lunghezza. Finanto che l'avevamo di fianco la strada era pianeggiante, poi dopo una curva si è palesato in lontananza il Prudenzini. In lontananza, e un po' più in alto di dov'eravamo noi.
+Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si estende in lunghezza fiancheggiando il sentiero. Finanto che ci di fianco la strada era pianeggiante, poi dopo una curva si è palesato in lontananza il Prudenzini, un po' più in alto di dove ci trovavamo.
 
 ![Il Prudenzini in lontananza](prudenzini0.webp) ![Il rifugio più da vicino](prudenzini1.webp) ![Il rifugio Prudenzini](prudenzini2.webp)
 
-Arrivati al rifugio abbiamo steso la coperta da picnic e abbiamo mangiato i nostri panini imbottiti, quando ha iniziato a piovere! Tutte le nuvole che ci avevano riparato dal sole fino a quel punto ci hanno tradito e siamo entrati nel rifugio. Ci siamo consolati con torte e té caldi, godendoci l'atmosfera del Prudenzini che quel giorno accoglieva un bel po' di gente.
+Arrivati al rifugio abbiamo steso la coperta da picnic e mangiato i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più severamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
 
-Lasciamo il Prudenzini e ci avviamo da dove siamo partiti con un bel passo. Ero poco dopo il lago asciutto di poco fa e stavo facendo attenzione a non slogarmi una caviglia sul sentiero pietroso, quando alzo lo sguardo e vedo un ungulato che mi fissa, a una trentina di metri da me:
+Lasciato il Prudenzini abbiamo ripercorso al contrario la strada da dove siamo partiti con un bel passo. Mi trovavo poco dopo il lago asciutto di poco fa e stavo facendo attenzione a non slogarmi una caviglia sul sentiero pietroso, quando alzo lo sguardo e vedo un ungulato che mi fissa, a una trentina di metri da me:
 
 ![Il camoscio che mi fissa a una trentina di metri](camoscio1.webp)
 
@@ -65,6 +64,7 @@ Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse
 
 ![Il camoscio se ne va giù per la mulattiera](camoscio2.webp)
 
-Tornati allo Stella Alpina sapevamo di essere quasi arrivati, ma avevamo sottovalutato gli ultimi 750m che ancora ci separavano dalla macchina. Da una KIA si affaccia un uomo che si propone di darci un passaggio, ma rifiutiamo, illusi di essere praticamente arrivati. Mi rendo conto che 750m in discesa sull'asfalto sono una distanza comica, ma chi scrive è più abituato a passeggiare sulle spiagge della Sicilia orientale - o al massimo a trottare sui corridoi della metropolitana di Milano - e devo ammettere che avevo una certa fretta di arrivare all'auto, scaricare lo zaino e sprofondare nel sedile anatomico. Lezione recepita.
+Tornati allo Stella Alpina sapevamo di essere quasi arrivati, ma avevamo sottovalutato gli ultimi 750m che ancora ci separavano dalla macchina. Da una KIA si affaccia un uomo che si propone di darci un passaggio, ma rifiutiamo, illusi di essere praticamente arrivati. Mi rendo conto che 750m in discesa sull'asfalto sono una distanza comica, ma chi scrive è più abituato a passeggiare a 0.1m s.l.m. sulle spiagge della Sicilia orientale — o al massimo a trottare nei corridoi della metropolitana — e devo ammettere che avevo una certa fretta di arrivare all'auto, scaricare lo zaino e sprofondare nel sedile anatomico. Che mi sia da lezione.
+
 
 
