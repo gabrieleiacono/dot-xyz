@@ -26,24 +26,33 @@ Abbiamo parcheggiato in uno degli spiazzi che precedono il rifugio Stella Alpina
 
 Il primo pezzo è una mulattiera ripida con diversi tornanti, e già si capisce che si sarà circondati dall'acqua per tutto il tempo: lo scroscìo è assordante, specie quando si passa sopra i diversi ponticelli che scavalcano il torrente.
 
-![Uno dei ponticelli sul torrente](ponticello.webp) ![Un altro ponticello](ponticello2.webp)
+{% imgrow %}
+![Uno dei ponticelli sul torrente](ponticello.webp)
+![Un altro ponticello](ponticello2.webp)
+{% endimgrow %}
 
 La strada costeggia un bosco (senza mai tagliarlo del tutto) che dà un po' di riparo dal sole in quella che sarebbe altrimenti una passeggiata quasi totalmente esposta. È qui che sentiamo avvicinarsi alle nostre spalle dei cavalli con la loro soundtrack inconfondibile. Li lasciamo passare, e da qui in avanti saremo perseguitati dalla merda. Alla loro si aggiunge quella del bestiame delle malghe — alcune "torte" raggiungevano dimensioni considerevolissime:
 
+{% imgrow %}
 ![I cavalli che ci superano sulla mulattiera](cavalli.webp)
 ![Torta](torta.webp)
+{% endimgrow %}
 
 
 
 Ciononostante la passeggiata continua ad essere molto piacevole, specialmente per via del gradiente che si fa a poco a poco meno severo. Era da un po' che avevo staccato Paola per cui decido di fermarmi a godere della vista e salutare gli altri escursionisti che passavano di lì, tra cui un gruppetto con due piccoli cani in una supplica costante per dei biscottini.
 
+{% imgrow %}
 ![La vista prima della centrale](vista1.webp)
 ![I due cagnolini in supplica per dei biscottini](canetti.webp)
+{% endimgrow %}
 
 Paola arriva e mi offre della cioccolata. Avanzati per un bel pezzo passando vicino ad un grande lago asciutto ci imbattemmo nella centrale elettrica di Salarno, che mi piacque da morire vista da lontano: aveva l'aria di essere il laboratorio segreto di un geniale scienziato eremita.
 
+{% imgrow %}
 ![La centrale elettrica di Salarno vista da lontano](centrale1.webp)
 ![La centrale elettrica di Salarno da vicino](centrale2.webp)
+{% endimgrow %}
 
 
 Ed ecco finalmente il lago di Salarno, anche se era un lago per un pelo: l'acqua era piuttosto bassa, ma questo ci ha permesso di ammirare i segni concentrici dell'acqua sulle rocce che la contengono.
@@ -52,7 +61,9 @@ Ed ecco finalmente il lago di Salarno, anche se era un lago per un pelo: l'acqua
 
 Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si estende in lunghezza fiancheggiando il sentiero. Finanto che ci di fianco la strada era pianeggiante, poi dopo una curva si è palesato in lontananza il Prudenzini, un po' più in alto di dove ci trovavamo.
 
-![Il Prudenzini in lontananza](prudenzini0.webp) ![Il rifugio più da vicino](prudenzini1.webp) ![Il rifugio Prudenzini](prudenzini2.webp)
+![Il Prudenzini in lontananza](prudenzini0.webp)
+![Il rifugio più da vicino](prudenzini1.webp)
+![Il rifugio Prudenzini](prudenzini2.webp)
 
 Arrivati al rifugio abbiamo steso la coperta da picnic e mangiato i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più severamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
 

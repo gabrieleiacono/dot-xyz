@@ -35,6 +35,13 @@ export default function (eleventyConfig) {
   // Current year shortcode
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  // Wrap images in a side-by-side row. Blank lines keep the inner
+  // markdown parseable by markdown-it.
+  eleventyConfig.addPairedShortcode(
+    "imgrow",
+    (content) => `<div class="img-row">\n\n${content.trim()}\n\n</div>`
+  );
+
   // Collection: posts sorted by date
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi.getFilteredByGlob("src/posts/**/*.md").sort((a, b) => {

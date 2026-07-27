@@ -316,6 +316,24 @@ a:hover {
   height: auto;
   border: 2px solid var(--border);
 }
+/* ---- Side-by-side images ({% imgrow %}) ---- */
+.prose .img-row p {
+  display: flex;
+  gap: var(--space-s);
+  align-items: stretch;
+  margin: 0;
+}
+.prose .img-row img {
+  flex: 1 1 0;
+  min-width: 0;
+  object-fit: cover;
+}
+@media (max-width: 600px) {
+  .prose .img-row p {
+    flex-direction: column;
+  }
+}
+
 .prose hr {
   border: none;
   border-top: 1px solid var(--border-light);
