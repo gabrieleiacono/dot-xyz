@@ -10,6 +10,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/public");
   eleventyConfig.addPassthroughCopy("src/posts/**/*.{png,jpg,jpeg,gif,svg,webp}");
+  eleventyConfig.addPassthroughCopy("src/posts/**/*.{webm,mp4}");
   eleventyConfig.addPassthroughCopy("src/CNAME");
 
   // Date filters
@@ -40,6 +41,21 @@ export default function (eleventyConfig) {
   eleventyConfig.addPairedShortcode(
     "imgrow",
     (content) => `<div class="img-row">\n\n${content.trim()}\n\n</div>`
+  );
+
+  // Silent looping clip, GIF-style, with controls to pause it.
+  eleventyConfig.addShortcode(
+    "video",
+    (src, label = "") =>
+      `<video src="${src}" autoplay loop muted playsinline controls${
+        label ? ` aria-label="${label}"` : ""
+      }></video>`
+  );
+
+  // Wrap clips in a side-by-side row.
+  eleventyConfig.addPairedShortcode(
+    "vidrow",
+    (content) => `<div class="vid-row">\n${content.trim()}\n</div>`
   );
 
   // Collection: posts sorted by date

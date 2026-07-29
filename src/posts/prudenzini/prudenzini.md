@@ -15,8 +15,10 @@ Distanza 18.5 km
 Coordinate parcheggio:
 46.093335063227606, 10.42829738404762
 
-
-
+{% vidrow %}
+{% video "cascata.webm", "Una delle cascate lungo il sentiero" %}
+{% video "vacche.webm", "Le vacche al pascolo" %}
+{% endvidrow %}
 
 Eravamo diretti al lago d'Arno, quando a Berzo Demo (nome incredibile per un paese) incontriamo un posto di blocco che ci informa che la strada è chiusa per [un rally](https://www.rallycoppacamuna.it/). Dopo un rapido brainstorming decidiamo di andare al Prudenzini, uno di quei posti che ho sentito nominare spesso ai miei amici della Valle.
 
@@ -31,7 +33,7 @@ Il primo pezzo è una mulattiera ripida con diversi tornanti, e già si capisce 
 ![Un altro ponticello](ponticello2.webp)
 {% endimgrow %}
 
-La strada costeggia un bosco (senza mai tagliarlo del tutto) che dà un po' di riparo dal sole in quella che sarebbe altrimenti una passeggiata quasi totalmente esposta. È qui che sentiamo avvicinarsi alle nostre spalle dei cavalli con la loro soundtrack inconfondibile. Li lasciamo passare, e da qui in avanti saremo perseguitati dalla merda. Alla loro si aggiunge quella del bestiame delle malghe — alcune "torte" raggiungeranno dimensioni considerevolissime:
+La strada costeggia un bosco (senza mai tagliarlo del tutto) che ci dà un po' di riparo dal sole in quella che sarebbe altrimenti una passeggiata quasi totalmente esposta. Qui che sentiamo avvicinarsi alle nostre spalle dei cavalli accompagnati dalla loro soundtrack inconfondibile. Li lasciamo passare, e da qui in avanti saremo perseguitati dalla merda. Alla loro si aggiunge quella del bestiame delle malghe — alcune "torte" raggiungeranno dimensioni considerevolissime:
 
 {% imgrow %}
 ![I cavalli che ci superano sulla mulattiera](cavalli.webp)
@@ -59,6 +61,8 @@ Ed ecco finalmente il lago di Salarno, anche se era un lago per un pelo: l'acqua
 
 ![Lago di Salarno](salarno1.webp)
 
+{% video "lago_salarno.webm", "Il lago di Salarno" %}
+
 Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si estende in lunghezza fiancheggiando il sentiero. Finché era al nostro fianco la strada era pianeggiante, poi dopo una curva si è palesato in lontananza il Prudenzini, un po' più in alto di dove ci trovavamo.
 
 ![Il Prudenzini in lontananza](prudenzini0.webp)
@@ -74,6 +78,8 @@ Lasciato il Prudenzini abbiamo ripercorso al contrario la strada da dove eravamo
 Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse lo infastidiva appena, ma era evidente che sarebbe bastato un altro passo per allarmarlo. Mi sono limitato a contemplarlo con meraviglia. È venuto giù dal pendio e se n'è andato, placido e al passo, giù per la mulattiera. Quasi ci rimango male, poi penso che sarebbe stato curioso se mi fosse venuto incontro a salutarmi come un fratello che non vedeva da anni.
 
 ![Il camoscio se ne va giù per la mulattiera](camoscio2.webp)
+
+{% video "camoscio.webm", "Il camoscio che se ne va giù per la mulattiera" %}
 
 Tornati allo Stella Alpina sapevamo di essere quasi arrivati, ma avevamo sottovalutato gli ultimi 750m che ancora ci separavano dalla macchina. Da una KIA si affaccia un uomo che si propone di darci un passaggio, ma rifiutiamo, illusi di essere praticamente arrivati. Mi rendo conto, adesso, che 750m in discesa sull'asfalto sono una distanza comica, ma chi scrive è più abituato a passeggiare a 0.1m s.l.m. sulle spiagge della Sicilia orientale — o al massimo a trottare nei corridoi della metropolitana — e devo ammettere che avevo una certa fretta di arrivare all'auto, scaricare lo zaino e sprofondare nel sedile anatomico. Che mi sia da lezione.
 

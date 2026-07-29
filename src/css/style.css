@@ -334,6 +334,36 @@ a:hover {
   }
 }
 
+/* ---- Videos ({% video %}) ---- */
+/* Portrait clips would otherwise stand taller than the viewport. */
+.prose video {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  height: auto;
+  margin-inline: auto;
+  border: 2px solid var(--border);
+}
+/* ---- Side-by-side videos ({% vidrow %}) ---- */
+.prose .vid-row {
+  display: flex;
+  gap: var(--space-s);
+  align-items: stretch;
+  margin: var(--space-m) 0;
+}
+.prose .vid-row video {
+  flex: 1 1 0;
+  min-width: 0;
+  max-height: none;
+  margin: 0;
+  object-fit: cover;
+}
+@media (max-width: 600px) {
+  .prose .vid-row {
+    flex-direction: column;
+  }
+}
+
 .prose hr {
   border: none;
   border-top: 1px solid var(--border-light);
