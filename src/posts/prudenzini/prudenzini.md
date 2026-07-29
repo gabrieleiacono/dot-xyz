@@ -65,13 +65,13 @@ Di fatto abbiamo passato più tempo in compagnia del lago di Dosazzo, che si est
 ![Il rifugio più da vicino](prudenzini1.webp)
 ![Il rifugio Prudenzini](prudenzini2.webp)
 
-Arrivati al rifugio abbiamo steso la coperta da picnic e spacchettati i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più seriamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
+Arrivati al rifugio abbiamo steso la coperta da picnic e spacchettato i nostri panini imbottiti, quando ha iniziato a piovigginare all'inizio quasi per scherzo e poi più seriamente. Abbiamo ritrovato lo spirito consolati dalle torte e dai té caldi, godendoci l'atmosfera dentro il Prudenzini che quel giorno accoglieva un buon numero di escursionisti.
 
 Lasciato il Prudenzini abbiamo ripercorso al contrario la strada da dove eravamo venuti con un bel passo. Mi trovavo poco dopo il lago asciutto di poco prima e stavo facendo attenzione a non slogarmi una caviglia sul sentiero pietroso, quando alzo lo sguardo e vedo quest'ungulato che mi fissa, a una trentina di metri da me:
 
 ![Il camoscio che mi fissa a una trentina di metri](camoscio1.webp)
 
-Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse lo infastidiva appena, ma era evidente che sarebbe bastato un altro passo per allarmarlo. Mi sono limitato a contemplarlo con meraviglia. È venuto giù dal pendio e se n'è andato, placido e al passo, giù per la mulattiera. Quasi ci rimango male, poi penso che sarebbe stato inverosimile se mi fosse venuto incontro a salutarmi come un fratello che non vedeva da anni.
+Mi sarebbe piaciuto avvicinarmi; la mia presenza non sembrava spaventarlo, forse lo infastidiva appena, ma era evidente che sarebbe bastato un altro passo per allarmarlo. Mi sono limitato a contemplarlo con meraviglia. È venuto giù dal pendio e se n'è andato, placido e al passo, giù per la mulattiera. Quasi ci rimango male, poi penso che sarebbe stato curioso se mi fosse venuto incontro a salutarmi come un fratello che non vedeva da anni.
 
 ![Il camoscio se ne va giù per la mulattiera](camoscio2.webp)
 
