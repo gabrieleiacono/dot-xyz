@@ -9,6 +9,8 @@ export default function (eleventyConfig) {
   // Passthrough copy
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/public");
+  // browsers and feed readers probe /favicon.ico at the root regardless of <link>
+  eleventyConfig.addPassthroughCopy({ "src/public/favicon.ico": "favicon.ico" });
   eleventyConfig.addPassthroughCopy("src/posts/**/*.{png,jpg,jpeg,gif,svg,webp}");
   eleventyConfig.addPassthroughCopy("src/posts/**/*.{webm,mp4}");
   eleventyConfig.addPassthroughCopy("src/CNAME");
