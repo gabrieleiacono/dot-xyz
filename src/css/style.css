@@ -315,6 +315,46 @@ a:hover {
   max-width: 100%;
   height: auto;
   border: 2px solid var(--border);
+  cursor: zoom-in;
+}
+/* ---- Lightbox (click to enlarge) ---- */
+.lightbox {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: var(--space-m);
+  border: none;
+  background: transparent;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-s);
+  cursor: zoom-out;
+}
+.lightbox[open] {
+  display: flex;
+}
+.lightbox::backdrop {
+  background: rgba(44, 36, 22, 0.92);
+}
+.lightbox img {
+  max-width: 100%;
+  max-height: calc(100vh - 2 * var(--space-m) - 3rem);
+  object-fit: contain;
+  border: 2px solid var(--code-text);
+}
+.lightbox-caption {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--code-text);
+  text-align: center;
+}
+.lightbox-caption:empty {
+  display: none;
 }
 /* ---- Side-by-side images ({% imgrow %}) ---- */
 .prose .img-row p {

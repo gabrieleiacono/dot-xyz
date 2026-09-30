@@ -1,7 +1,7 @@
 ---
 title: "Hiking chronicles - Rifugio Prudenzini (m 2235)"
 date: 2026-07-19
-excerpt: "Incl. incontro inaspettato con camoscio"
+excerpt: "Include camosci"
 tags:
   - hiking
 ---

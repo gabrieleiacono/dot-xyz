@@ -31,3 +31,37 @@ layout: layouts/base.njk
     <a href="/blog/" class="back-link">&larr; back to all posts</a>
   </footer>
 </article>
+
+<dialog class="lightbox" aria-label="Enlarged image">
+  <img src="" alt="">
+  <p class="lightbox-caption"></p>
+</dialog>
+
+<script>
+  (() => {
+    const lightbox = document.querySelector(".lightbox");
+    const lightboxImg = lightbox.querySelector("img");
+    const caption = lightbox.querySelector(".lightbox-caption");
+
+    const open = (img) => {
+      lightboxImg.src = img.currentSrc || img.src;
+      lightboxImg.alt = img.alt;
+      caption.textContent = img.alt;
+      lightbox.showModal();
+    };
+
+    document.querySelectorAll(".post-body img").forEach((img) => {
+      img.tabIndex = 0;
+      img.addEventListener("click", () => open(img));
+      img.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          open(img);
+        }
+      });
+    });
+
+    // Any click closes it; Esc is handled natively by <dialog>
+    lightbox.addEventListener("click", () => lightbox.close());
+  })();
+</script>
