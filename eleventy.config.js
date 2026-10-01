@@ -60,6 +60,13 @@ export default function (eleventyConfig) {
     (content) => `<div class="vid-row">\n${content.trim()}\n</div>`
   );
 
+  // Two-column image grid. Use raw <img class="span-col|span-row"> inside
+  // to make an image span both columns or two rows.
+  eleventyConfig.addPairedShortcode(
+    "imggrid",
+    (content) => `<div class="img-grid">\n\n${content.trim()}\n\n</div>`
+  );
+
   // Collection: posts sorted by date
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi.getFilteredByGlob("src/posts/**/*.md").sort((a, b) => {

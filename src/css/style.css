@@ -404,6 +404,47 @@ a:hover {
   }
 }
 
+/* ---- Image grid ({% imggrid %}) ---- */
+/* Markdown images get wrapped in a <p>, raw <img> lines don't:
+   display: contents makes both lay out as direct grid items. */
+.prose .img-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-s);
+  margin: var(--space-m) 0;
+}
+.prose .img-grid p {
+  display: contents;
+}
+.prose .img-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.prose .img-grid .span-col {
+  grid-column: 1 / -1;
+}
+/* height: 0 + min-height: 100% keeps the image from sizing the rows,
+   then stretches it to fill the two rows it spans. */
+.prose .img-grid .span-row {
+  grid-row: span 2;
+  height: 0;
+  min-height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 600px) {
+  .prose .img-grid {
+    grid-template-columns: 1fr;
+  }
+  .prose .img-grid .span-col,
+  .prose .img-grid .span-row {
+    grid-column: auto;
+    grid-row: auto;
+    height: auto;
+    min-height: 0;
+  }
+}
+
 .prose hr {
   border: none;
   border-top: 1px solid var(--border-light);
