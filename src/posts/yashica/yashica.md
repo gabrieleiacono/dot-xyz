@@ -14,7 +14,7 @@ Di recente ho acquistato per me e Paola due minifotocamere Yashica Funtastic, e 
 {% imggrid %}
 ![La Funtastic vista di fronte](fotocamera-fronte.webp)
 ![La Funtastic vista da dietro](fotocamera-retro.webp)
-<img loading="lazy" class="span-col" src="fotocamera-schermo.webp">
+<img class="span-col" src="fotocamera-schermo.webp">
 {% endimggrid %}
 
 Le specifiche non hanno importanza, se non che ogni foto è 1280x960 pixel e cuba poche centinaia di kilobyte. Le fotocamere sono arrivate sprovviste di scheda SD: speravo di poter riciclare qualche vecchia scheda dal cimitero dei progetti e delle passioni lasciate a metà, ma stranamente erano ancora tutte impegnate: chi contiene ROM (e preziosissimi salvataggi) di una flashcard di un Nintendo DS, chi fa da disco al RPi 3b, non ne potevo demansionarne nessuna.
@@ -32,16 +32,16 @@ E se provassi davvero a scattare dieci foto al giorno? Questa realizzazione, uni
 
 
 {% imggrid %}
-<img loading="lazy" src="IMG00090.webp">
-<img loading="lazy" src="IMG00109.webp">
-<img loading="lazy" src="IMG00118.webp">
-<img loading="lazy" class="span-row" src="IMG00134.webp">
-<img loading="lazy" src="IMG00150.webp">
-<img loading="lazy" src="IMG00155.webp">
-<img loading="lazy" src="IMG00169.webp">
-<img loading="lazy" src="IMG00183.webp">
-<img loading="lazy" src="IMG00195.webp">
-<img loading="lazy" class="span-col span-row" src="IMG00202.webp">
-<img loading="lazy" src="IMG00208.webp">
-<img loading="lazy" src="IMG00237.webp">
+<img src="IMG00090.webp">
+<img src="IMG00109.webp">
+<img src="IMG00118.webp">
+<img class="span-row" src="IMG00134.webp">
+<img src="IMG00150.webp">
+<img src="IMG00155.webp">
+<img src="IMG00169.webp">
+<img src="IMG00183.webp">
+<img src="IMG00195.webp">
+<img class="span-col span-row" src="IMG00202.webp">
+<img src="IMG00208.webp">
+<img src="IMG00237.webp">
 {% endimggrid %}

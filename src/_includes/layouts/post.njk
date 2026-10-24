@@ -24,7 +24,7 @@ layout: layouts/base.njk
   </header>
 
   <div class="post-body prose">
-    {{ content | safe }}
+    {{ content | lazyImages | safe }}
   </div>
 
   <footer class="post-footer">
