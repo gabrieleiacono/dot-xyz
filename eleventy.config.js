@@ -35,6 +35,15 @@ export default function (eleventyConfig) {
     return `${minutes} min read`;
   });
 
+  // Lazy-load markdown images. Raw <img> tags need loading="lazy" by hand.
+  eleventyConfig.amendLibrary("md", (mdLib) => {
+    const renderImage = mdLib.renderer.rules.image;
+    mdLib.renderer.rules.image = (tokens, idx, options, env, self) => {
+      tokens[idx].attrSet("loading", "lazy");
+      return renderImage(tokens, idx, options, env, self);
+    };
+  });
+
   // Current year shortcode
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
